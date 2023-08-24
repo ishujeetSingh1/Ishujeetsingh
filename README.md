@@ -15,4 +15,4 @@
   1.	Exploring Modern Data Stack (dbt, Airbyte, Databricks)
   2.	Azure Cloud (Already worked with AWS & GCP)
   3.	How to architect a better data system
-  4.	Machine learning with AWS
+  4.	Machine learning with AWS 
