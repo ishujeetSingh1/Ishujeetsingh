@@ -11,4 +11,3 @@
 3.	How to architect a better data system
 4.	Machine learning with AWS
 •	📫 Here's how you can reach me: LinkedIn | Email
-
