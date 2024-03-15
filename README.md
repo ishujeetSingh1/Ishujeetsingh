@@ -1,7 +1,7 @@
 # Ishujeetsingh
 •	😄 My pronouns are: He/His/Him
 
-•	🔭 I’m currently doing a master’s in Business Analytics from the University of Texas at Dallas and building my skill set in Data Science. 
+•	🔭 I’m currently doing a master’s in Business Analytics from the University of Texas at Dallas and building my skill set in Data Engineer. 
 
 •	🧐Currently, I am looking for a full-time position.
 
